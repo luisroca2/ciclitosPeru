@@ -1,0 +1,137 @@
+body{
+    background-image: url("../imagenes/arnolda.jpg");
+    background: #d86213ef;
+}
+h2,h3,p, a{
+    color: #fff;
+    font-family: "calibri";
+
+}
+
+
+span{
+    
+    color: #fff;
+}
+.principal{
+    width: 1100px;
+    height: 1190px;
+    border: 0px solid#fff;
+    margin: auto;
+}
+header{
+    width: 1100px;
+    height: 100px;
+    border: 0.1px solid #fff;
+}
+#logo{
+    width: 250px;
+    height: 100px;
+    border: 0px solid#fff;
+    float: left;
+    
+}
+
+
+
+.menu{
+    width: 340px;
+    height: 50px;
+    border: 0px solid#ccc;
+    float: right;
+    margin-top: 40px;
+    background: white;
+}
+.jumbotron{
+    background: white;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+.jumbotron h1, .jumbotron p{
+    color: #df4516ef;
+    text-align: center;
+   
+}
+
+.menu ul li{
+    list-style: none;
+    float: right;
+}
+
+
+.menu ul li a{
+    text-decoration: none;
+    padding: 10px 10px;
+    border: 0px solid #ccc;
+    color: #df4516ef;
+    font-family: Arial, Helvetica, sans-serif;
+        
+
+}
+a:hover{
+    background: #2f1e19ef;
+    
+}
+#latita{
+    margin-top: 35px;
+    width: 900px;
+    height: 250px;
+}
+#categorias{
+    width: 1100px;
+    height: auto; overflow: hidden;
+    border: 0px solid;
+    margin-top: 60px;
+}
+.uno{
+    width: 330px;
+    height: 500px;
+    border: 1px solid #ccc;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    
+}
+.dos{
+    margin-left: 37px;
+    margin-right: 37px;
+    text-align: center;
+}
+.buy{
+    border: 1px solid #006699;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+    background: rgb(34, 29, 29);
+    
+    
+}
+.buy:hover{
+    background: #979797;
+    color: #fff;
+    transition: background 1s, color 1s;
+    
+    
+}
+footer{
+    width: 1100px;
+    height: 150px;
+    background: #272727;
+    margin: auto;
+    
+    bottom: 0;
+}
+ul{
+    color: white;
+}
+p{
+    text-align: center;
+} 
+p .lolita{
+    text-decoration: underline;
+}
+table{
+    color: white;
+    
+}
